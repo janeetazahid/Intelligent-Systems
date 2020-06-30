@@ -1,4 +1,4 @@
-## LAb 0
+## Lab 0
 
 The purpose of this lab was to familiarize yourself with the Python environment, specifically the library scikit-learn. 
 
