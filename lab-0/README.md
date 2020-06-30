@@ -1,11 +1,12 @@
 ## Lab 0
 
-The purpose of this lab was to familiarize yourself with the Python environment, specifically the library scikit-learn. 
+The purpose of this lab was to familiarize yourself with the Python environment, specifically the library sci-kit-learn. 
 
-In the lab two different algorithms were performed on the **MNIST** dataset. 
+In the lab, two different algorithms were performed on the **MNIST** dataset. 
 
 The algorithms were: **SVM** and **K-means**.
 
 The confusion matrix for each algorithm was also evaluated.   
 
-**Libraries:** Scikit-learn, pandas, numpy, matplotlib
+**Libraries:** Scikit-learn, pandas, NumPy, matplotlib
+**Software:** VSCode 
