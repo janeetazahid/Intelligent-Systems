@@ -20,4 +20,4 @@ At the end the results were verified using Sklearn.
 **Libraries:** pandas, numpy, matplotlib, sklearn 
 
 
-**Software:** VScode 
+**Software:** VScode, Jupyter Notebook 
